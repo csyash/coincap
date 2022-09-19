@@ -1,0 +1,43 @@
+.navbar{
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding: 1rem 2rem;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+}
+
+.links p{
+    margin: 0px 10px;
+}
+
+.links p:hover{
+    cursor:pointer;
+}
+
+.brand-logo{
+    height: 5vmin;
+}
+
+.actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.btn{
+    margin: 0px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    background-color: limegreen;
+    color: white;
+    font-size: medium;
+}

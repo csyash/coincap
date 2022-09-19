@@ -1,0 +1,34 @@
+.tr{
+    width: 100%;   
+    margin: 0px;
+}
+
+.name{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.rank{
+    font-size:large;
+    align-self:center;
+    font-weight: 500;
+}
+
+.symbol-img{
+    width: 50px;
+}
+
+td p{
+    margin: 2px;
+}
+
+td{
+    text-align: start;
+}
+
+.data{
+    max-width: fit-content;
+    
+}
